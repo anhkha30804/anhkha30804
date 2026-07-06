@@ -113,9 +113,9 @@ Here are some of the tools, technologies, and languages that I work with:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username={{GITHUB_USERNAME}}&show_icons=true&locale=en&theme=tokyonight&bg_color=0d1117&title_color=00f2fe&icon_color=4facfe&text_color=ffffff&border_color=30363d&hide_border=false" height="195" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username={{GITHUB_USERNAME}}&show_icons=true&locale=en&theme=tokyonight&bg_color=0d1117&title_color=00f2fe&icon_color=4facfe&text_color=ffffff&border_color=30363d&hide_border=false" width="495" height="195" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username={{GITHUB_USERNAME}}&layout=compact&langs_count=5&theme=tokyonight&bg_color=0d1117&title_color=00f2fe&icon_color=4facfe&text_color=ffffff&border_color=30363d&hide_border=false&forks=true" height="195" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username={{GITHUB_USERNAME}}&layout=compact&langs_count=5&theme=tokyonight&bg_color=0d1117&title_color=00f2fe&icon_color=4facfe&text_color=ffffff&border_color=30363d&hide_border=false&forks=true" width="401" height="195" alt="Top Languages" />
 </p>
 
 ## 🐍 Contribution Snake
