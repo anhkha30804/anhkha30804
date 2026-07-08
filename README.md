@@ -15,7 +15,7 @@
   <h3>✨ Passionate Web & Backend Developer from Vietnam ✨</h3>
   
   <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=anhkha30804&theme=tokyonight&background=0d1117&ring=00f2fe&fire=4facfe&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=anhkha30804&theme=tokyonight&background=0d1117&ring=00f2fe&fire=4facfe&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&cache_bust=1" alt="GitHub Streak Stats" /></a>
   </p>
   
   <p align="center">
